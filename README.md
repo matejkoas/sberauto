@@ -14,6 +14,7 @@ Data cleaning was performed using Python tools.
 Additional features were generated, metrics were defined, and hypotheses about paid and organic traffic were tested.
 Hypotheses regarding conversion equality across regions were tested.
 Additional research was conducted for the product team.
+_______________________________________________________________________________________________________________________
 
 Анализ сайта «СберАвтоподписка»  
 
